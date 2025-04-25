@@ -89,7 +89,6 @@ spring.jpa.show-sql=true
 Este projeto demonstra como estruturar uma aplicação Spring Boot com integração ao MariaDB, mapeando entidades com JPA e implementando CRUD completo. Ele pode ser expandido para incluir novas funcionalidades, relacionamentos mais complexos ou autenticação de usuários.
 
 
-> ⚠️ **Observação:** Devido a uma limitação técnica no meu computador não consegui executar o banco MariaDB localmente via XAMPP. Apesar disso, toda a estrutura de persistência foi construída com base nos padrões corretos, e o projeto está configurado para funcionar normalmente em qualquer ambiente com o banco devidamente instalado.
 
 
 
