@@ -63,13 +63,13 @@ spring.jpa.show-sql=true
 
 ### 🔸 Categoria
 
-- `GET /categoria` → Lista todas as categorias
-- `POST /categoria` → Cria uma nova categoria
+- `GET /categorias` → Lista todas as categorias
+- `POST /categorias` → Cria uma nova categoria
 
 ### 🔸 Produto
 
-- `GET /produto` → Lista todos os produtos
-- `POST /produto` → Cria um novo produto
+- `GET /produtos` → Lista todos os produtos
+- `POST /produtos` → Cria um novo produto
 
 > Use ferramentas como **Postman** ou **Bruno** para testar as rotas.
 
